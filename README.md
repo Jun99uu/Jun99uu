@@ -53,7 +53,7 @@ I stan being with people💜
 
 <p>
   <a href="https://blog.naver.com/igun0423">
-    <img src="https://img.shields.io/badge/NaverBlog-03C75A?style=plastic&logo=Naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kyulog-03C75A?style=plastic&logo=Naver&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/99uu_u/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/>
