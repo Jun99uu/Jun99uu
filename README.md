@@ -56,7 +56,7 @@ I stan being with people💜
     <img src="https://img.shields.io/badge/Kyulog-03C75A?style=plastic&logo=Naver&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/99uu_u/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/InstaKyuram-E4405F?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </p>
 
