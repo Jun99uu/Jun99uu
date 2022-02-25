@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/44965706/155652608-c81785e2-6bfe-435f-ae25-79d5787e8946.gif"/><br/>
 I stan being with people💜
 
-<h2>Rhon</h2>
+## 😎 Rhon 😎
 
 🏫 Soongsil University Software Engineering 🏫 <br/>
 🎵 Software Engineering Student Council Sofrano 🎵 <br/>
@@ -50,12 +50,28 @@ I stan being with people💜
 </p>
 
 ### Blog
+
+<p>
   <a href="https://blog.naver.com/igun0423">
     <img src="https://img.shields.io/badge/NaverBlog-03C75A?style=plastic&logo=Naver&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/99uu_u/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
+</p>
+
+<hr/>
+
+
+<p>
+
+![Jun99uu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun99uu&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun99uu&layout=compact)
+
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
 
 
