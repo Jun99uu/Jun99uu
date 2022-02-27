@@ -9,6 +9,7 @@ I stan being with people💜
 🎵 Software Engineering Student Council Sofrano 🎵 <br/>
 ✈ Malaysia Multimedia University Short-term Education Completed ✈ <br/>
 ⚡ KEPCO Supporters 꿈틀 8th Member ⚡ <br/>
+📃 Get licence : ADsP, SQLD 📃
 🤖 AI Yangjae Hub Supporters 1st Member 🤖 <br/>
 🕑 IT's TIME 1st Front-end Developer 🕑 <br/>
 ✏ Studying WEB Front-end Development ✏ <br/>
