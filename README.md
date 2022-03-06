@@ -7,7 +7,6 @@ I stan being with people💜
 
 🏫 Soongsil University Software Engineering 🏫 <br/>
 🎵 Software Engineering Student Council Sofrano 🎵 <br/>
-✈ Malaysia Multimedia University Short-term Education Completed ✈ <br/>
 ⚡ KEPCO Supporters 꿈틀 8th Member ⚡ <br/>
 📃 Get licence : ADsP, SQLD 📃 <br/>
 🤖 AI Yangjae Hub Supporters 1st Member 🤖 <br/>
