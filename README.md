@@ -7,10 +7,11 @@ I stan being with people💜
 
 🏫 Soongsil University Software Engineering 🏫 <br/>
 🎵 Software Engineering Student Council Sofrano 🎵 <br/>
-⚡ KEPCO Supporters 꿈틀 8th Member ⚡ <br/>
 📃 Get licence : ADsP, SQLD 📃 <br/>
+⚡ KEPCO Supporters 꿈틀 8th Member ⚡ <br/>
 🤖 AI Yangjae Hub Supporters 1st Member 🤖 <br/>
 🕑 IT's TIME 1st Front-end Developer 🕑 <br/>
+🦁 LIKE LION SSU 10th Front-end Developer 🦁 <br/>
 ✏ Studying WEB Front-end Development ✏ <br/>
 
 
