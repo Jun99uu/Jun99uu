@@ -12,7 +12,7 @@ I stan being with people💜
 🤖 AI Yangjae Hub Supporters 1st Member 🤖 <br/>
 🕑 IT's TIME 1st Front-end Developer 🕑 <br/>
 🦁 LIKE LION SSU 10th Front-end Developer 🦁 <br/>
-✏ Studying WEB Front-end Development ✏ <br/>
+✏ Studying WEB/APP Front-end Development ✏ <br/>
 
 
 ### Tech Stack & Tools
