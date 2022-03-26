@@ -21,8 +21,10 @@ I stan being with people💜
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic-square&logo=Next.js&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=plastic-square&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=plastic-square&logo=Yarn&logoColor=white"/>
   <img src="https://img.shields.io/badge/CRA-09D3AC?style=plastic-square&logo=Create React App&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic-square&logo=Prettier&logoColor=white"/>
