@@ -27,17 +27,9 @@ I stan being with people💜
   <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic-square&logo=Kotlin&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic-square&logo=Firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=PHP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=plastic&logo=phpMyAdmin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=plastic-square&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=plastic-square&logo=Yarn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CRA-09D3AC?style=plastic-square&logo=Create React App&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic-square&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic-square&logo=Prettier&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=plastic-square&logo=ESLint&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic-square&logo=Firebase&logoColor=white"/><br/>
+
 </p>
 
 ### Extra Tools
