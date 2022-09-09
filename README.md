@@ -9,11 +9,12 @@ I stan being with people💜
 🎵 Software Engineering Student Council Sofrano 🎵 <br/>
 📃 Get licence : ADsP, SQLD 📃 <br/>
 ⚡ KEPCO Supporters 꿈틀 8th Member ⚡ <br/>
-🤖 AI Yangjae Hub Supporters 1st Member 🤖 <br/>
+🤖 AI Yangjae Hub Supporters 🤖 <br/>
 🕑 IT's TIME 1st Front-end Developer 🕑 <br/>
 🦁 LIKE LION SSU 10th Front-end Developer 🦁 <br/>
 🎨 Ablind Front-end Developer 🎨 <br/>
-🎮️ Nexon PROJECT MOD Supporters 🎮️ <br/>
+🎮️ Nexon MapleStory Worlds Supporters 🎮️ <br/>
+💻 Google Developer Student Clubs Soongsil 2nd Member 💻 <br/>
 ✏ Studying WEB/APP Front-end Development ✏ <br/>
 
 
@@ -27,6 +28,7 @@ I stan being with people💜
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=plastic-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=plastic-square&logo=Electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Native-2D3E50?style=plastic-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic-square&logo=Firebase&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/>
