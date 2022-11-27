@@ -1,20 +1,20 @@
 <div align="center">
-<h1 align="center">👩‍🚀 Rhon : Developer that's not Rhonely 🚀</h1>
+<h1 align="center">👩‍🚀 Junkyu, World! 🚀</h1>
 <img src="https://user-images.githubusercontent.com/44965706/155652608-c81785e2-6bfe-435f-ae25-79d5787e8946.gif"/><br/>
 I stan being with people💜
 
-## 😎 Rhon 😎
+## 😎 History 😎
 
 🏫 Soongsil University Software Engineering 🏫 <br/>
 🎵 Software Engineering Student Council Sofrano 🎵 <br/>
-📃 Get licence : ADsP, SQLD 📃 <br/>
+📃 Get licence : ACA, ADsP, SQLD 📃 <br/>
 ⚡ KEPCO Supporters 꿈틀 8th Member ⚡ <br/>
 🤖 AI Yangjae Hub Supporters 🤖 <br/>
-🕑 IT's TIME 1st Front-end Developer 🕑 <br/>
-🦁 LIKE LION SSU 10th Front-end Developer 🦁 <br/>
+🕑 IT's TIME 1st Front-end Team Member 🕑 <br/>
+🦁 LIKE LION SSU 10th Front-end Team Member 🦁 <br/>
 🎨 Ablind Front-end Developer 🎨 <br/>
 🎮️ Nexon MapleStory Worlds Supporters 🎮️ <br/>
-💻 Google Developer Student Clubs Soongsil 2nd Member 💻 <br/>
+💻 Google Developer Student Clubs SSU 2nd Web/Mobile Team Member 💻 <br/>
 ✏ Studying WEB/APP Front-end Development ✏ <br/>
 
 
