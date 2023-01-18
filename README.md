@@ -12,8 +12,9 @@ I stan being with people💜
 🤖 AI Yangjae Hub Supporters 🤖 <br/>
 🕑 IT's TIME 1st Front-end Team Member 🕑 <br/>
 🦁 LIKE LION SSU 10th Front-end Team Member 🦁 <br/>
-🎨 Ablind Front-end Developer 🎨 <br/>
+🦁 LIKE LION SSU 11th Front-end Team Leader 🦁 <br/>
 🎮️ Nexon MapleStory Worlds Supporters 🎮️ <br/>
+🎨 Ablind Team Front-end Developer 🎨 <br/>
 💻 Google Developer Student Clubs SSU 2nd Web/Mobile Team Member 💻 <br/>
 ✏ Studying WEB/APP Front-end Development ✏ <br/>
 
@@ -24,17 +25,24 @@ I stan being with people💜
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=plastic-square&logo=Sass&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=plastic-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=plastic-square&logo=Electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Native-2D3E50?style=plastic-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic-square&logo=Firebase&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic-square&logo=Flutter&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=plastic-square&logo=Storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=plastic-square&logo=Jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-0075EB?style=plastic-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=plastic-square&logo=React Query&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic-square&logo=Kotlin&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=plastic-square&logo=Lua&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=plastic-square&logo=Lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic-square&logo=Firebase&logoColor=white"/><br/>
 
 </p>
 
@@ -55,6 +63,9 @@ I stan being with people💜
 <p>
   <a href="https://blog.naver.com/igun0423">
     <img src="https://img.shields.io/badge/Kyulog-03C75A?style=plastic&logo=Naver&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@igun0423">
+    <img src="https://img.shields.io/badge/Kyulog-20C997?style=plastic&logo=Velog&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/99uu_u/">
     <img src="https://img.shields.io/badge/InstaKyuram-E4405F?style=plastic&logo=Instagram&logoColor=white"/>
