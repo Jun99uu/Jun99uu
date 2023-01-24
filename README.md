@@ -72,6 +72,59 @@ I stan being with people💜
   </a>
 </p>
 
+### Projects
+<details>
+<summary>2021 ~</summary>
+<div markdown="1">
+
+|프로젝트명|개발 기간|규모|완료 여부|
+|------|---|---|---|
+|[AI 양재 허브 별자리 테스트](https://github.com/Jun99uu/ConstellationTestWeb)|2021. 10|`Toy Project`|**`Completed`**|
+|[Art In Dance](https://github.com/Jun99uu/Art_In_Dance)|2021. 11 ~ 2021. 12|`Toy Project`|**`Completed`**|
+|[전부네덕](https://github.com/Jun99uu/JBND)|2022. 02|`Toy Project`|**`Completed`**|
+|[Booklog with SWYG](https://github.com/Jun99uu/Book-log-Frontend-2)|2022. 09 ~ 2022. 12|**`Team Project`**|**`Completed`**|
+|[짐꾼](https://github.com/Jun99uu/Software_Frontend)|2022. 03 ~ 2022. 07|**`Team Project`**|**`Completed`**|
+|[PLOVO](https://github.com/Jun99uu/PLOVO_frontend)|2022. 08 ~ 2022. 09|**`Team Project`**|**`Completed`**|
+|[Novelism](https://github.com/Jun99uu/osogi2jo)|2022. 09 ~ 2022. 12|**`Team Project`**|**`Completed`**|
+|[HOROS OCLAUR](https://github.com/Jun99uu/horos-ocular)|2022. 09 ~ 2022. 12|**`Team Project`**|**`Completed`**|
+|[FITBACK](https://github.com/Jun99uu/FITBACK-Frontend)|2022. 10 ~ 2022. 12|**`Team Project`**|**`Completed`**|
+|[Talk Me Merry Christmas](https://github.com/Jun99uu/TalkMeMerryChristmas)|2022. 11|**`Team Project`**|**`Completed`**|
+|[Term Term]()|2022. 12 ~ |**`Team Project`**|`In Progress`|
+|[Huggy]()|2023. 01 ~ |**`Team Project`**|`In Progress`|
+
+</div>
+</details>
+
+### Contributing
+<details>
+<summary>2022 ~</summary>
+<div markdown="1">
+
+|저장소|참여 기간|소속|완료 여부|
+|------|---|---|---|
+|[CS 지식 저장소](https://github.com/gdsc-ssu/cs-study)|2022. 10 ~ |**`GDSC SSU`**|`In Progress`|
+|[숨 참고 JS DEEP DIVE](https://github.com/Jun99uu/JS-Deep-Dive)|2023. 01 ~ |**`SSU LIKE LION 10th`**|`In Progress`|
+
+</div>
+</details>
+
+### Awards
+<details>
+<summary>2018 ~</summary>
+<div markdown="1">
+
+|상명|수상일|비고|
+|------|---|---|
+|**한국 IT정책경영학회 학술대회 우수상**|2018. 12. 12||
+|**2019 유니브 엑스포 우수상**|2019. 06. 02|한국 전력 서포터즈 `대학생 기획 연합 봉사동아리 꿈틀` 수상|
+|**AI 양재 허브 우수 서포터즈 상**|2021. 12. 21||
+|**대학생 연합 IT 동아리 잇츠타임 팀 MVP 상**|2022. 07. 30||
+|**건국대학교 캠퍼스타운 2022 K-이노스 캠퍼스타운 우수상**|2022. 08. 26|`Ablind` 수상|
+|**숭실대학교 슈퍼스타 창업경진대회 우수상**|2022. 10. 28|`Ablind` 수상|
+
+</div>
+</details>
+  
 <hr/>
 
 
