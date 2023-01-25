@@ -86,7 +86,7 @@ I stan being with people💜
 |[짐꾼](https://github.com/Jun99uu/Software_Frontend)|2022. 03 ~ 2022. 07|**`Team Project`**|**`Completed`**|
 |[PLOVO](https://github.com/Jun99uu/PLOVO_frontend)|2022. 08 ~ 2022. 09|**`Team Project`**|**`Completed`**|
 |[Novelism](https://github.com/Jun99uu/osogi2jo)|2022. 09 ~ 2022. 12|**`Team Project`**|**`Completed`**|
-|[HOROS OCLAUR](https://github.com/Jun99uu/horos-ocular)|2022. 09 ~ 2022. 12|**`Team Project`**|**`Completed`**|
+|[HOROS OCULAR](https://github.com/Jun99uu/horos-ocular)|2022. 09 ~ 2022. 12|**`Team Project`**|**`Completed`**|
 |[FITBACK](https://github.com/Jun99uu/FITBACK-Frontend)|2022. 10 ~ 2022. 12|**`Team Project`**|**`Completed`**|
 |[Talk Me Merry Christmas](https://github.com/Jun99uu/TalkMeMerryChristmas)|2022. 11|**`Team Project`**|**`Completed`**|
 |[Term Term]()|2022. 12 ~ |**`Team Project`**|`In Progress`|
