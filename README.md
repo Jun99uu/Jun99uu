@@ -16,6 +16,8 @@ I stan being with people💜
 🎮️ Nexon MapleStory Worlds Supporters 🎮️ <br/>
 🎨 Ablind Team Front-end Developer 🎨 <br/>
 💻 Google Developer Student Clubs SSU 2nd Web/Mobile Team Member 💻 <br/>
+🗼 SK Telecom DEVOCEAN YOUNG 2nd 🗼 <br/>
+🏢 Blockwave Labs Front-end Developer 🏢 <br/>
 ✏ Studying WEB/APP Front-end Development ✏ <br/>
 
 
@@ -26,7 +28,8 @@ I stan being with people💜
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=plastic-square&logo=Sass&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=plastic-square&logo=Sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Emotion-B4319E?style=plastic-square&logo=funimation&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=plastic-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=plastic-square&logo=Electron&logoColor=white"/>
@@ -89,8 +92,7 @@ I stan being with people💜
 |[HOROS OCULAR](https://github.com/Jun99uu/horos-ocular)|2022. 09 ~ 2022. 12|**`Team Project`**|**`Completed`**|
 |[FITBACK](https://github.com/Jun99uu/FITBACK-Frontend)|2022. 10 ~ 2022. 12|**`Team Project`**|**`Completed`**|
 |[Talk Me Merry Christmas](https://github.com/Jun99uu/TalkMeMerryChristmas)|2022. 11|**`Team Project`**|**`Completed`**|
-|[Term Term]()|2022. 12 ~ |**`Team Project`**|`In Progress`|
-|[Huggy]()|2023. 01 ~ |**`Team Project`**|`In Progress`|
+|[termterm : 텀텀]()|2023. 03 ~ |**`Team Project`**|`In Progress`|
 
 </div>
 </details>
@@ -102,8 +104,8 @@ I stan being with people💜
 
 |저장소|참여 기간|소속|완료 여부|
 |------|---|---|---|
-|[CS 지식 저장소](https://github.com/gdsc-ssu/cs-study)|2022. 10 ~ |**`GDSC SSU`**|`In Progress`|
-|[숨 참고 JS DEEP DIVE](https://github.com/Jun99uu/JS-Deep-Dive)|2023. 01 ~ |**`SSU LIKE LION 10th`**|`In Progress`|
+|[CS 지식 저장소](https://github.com/gdsc-ssu/cs-study)|2022. 10 ~ |**`GDSC SSU`**|`Completed`|
+|[숨 참고 JS DEEP DIVE](https://github.com/Jun99uu/JS-Deep-Dive)|2023. 01 ~ |**`SSU LIKE LION 10th`**|`Completed`|
 
 </div>
 </details>
