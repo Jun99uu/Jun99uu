@@ -33,8 +33,7 @@ I stan being with people💜
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=plastic-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=plastic-square&logo=Electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React Native-2D3E50?style=plastic-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic-square&logo=Flutter&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/React Native-2D3E50?style=plastic-square&logo=React&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=plastic-square&logo=Storybook&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=plastic-square&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic-square&logo=Redux&logoColor=white"/>
@@ -93,6 +92,8 @@ I stan being with people💜
 |[FITBACK](https://github.com/Jun99uu/FITBACK-Frontend)|2022. 10 ~ 2022. 12|**`Team Project`**|**`Completed`**|
 |[Talk Me Merry Christmas](https://github.com/Jun99uu/TalkMeMerryChristmas)|2022. 11|**`Team Project`**|**`Completed`**|
 |[termterm : 텀텀]()|2023. 03 ~ |**`Team Project`**|`In Progress`|
+|[DE:BOOST](https://github.com/Jun99uu/DE-BOOST)|2023. 06 ~ 2023. 07|**`Team Project`**|**`Completed`**|
+|[Aurora](https://github.com/Jun99uu/beautiful-aurora)|2023. 08|**`Team Project`**|**`Completed`**|
 
 </div>
 </details>
@@ -106,6 +107,8 @@ I stan being with people💜
 |------|---|---|---|
 |[CS 지식 저장소](https://github.com/gdsc-ssu/cs-study)|2022. 10 ~ |**`GDSC SSU`**|`Completed`|
 |[숨 참고 JS DEEP DIVE](https://github.com/Jun99uu/JS-Deep-Dive)|2023. 01 ~ |**`SSU LIKE LION 10th`**|`Completed`|
+|[웹 프론트엔드 성능 최적화 가이드](https://github.com/DEVOCEAN-YOUNG-FPOG/FPOG)|2023. 05 ~ 2023. 06|**`SKT DEVOCEAN YOUNT`**|`Completed`|
+|[Next.js Docs 한글화 프로젝트](https://github.com/Nextjs-kr/Nextjs.kr/blob/main/docs/02-app/02-api-reference/04-functions/use-report-web-vitals.mdx)|2023. 06|**`*`**|`Completed`|
 
 </div>
 </details>
@@ -123,6 +126,7 @@ I stan being with people💜
 |**대학생 연합 IT 동아리 잇츠타임 팀 MVP 상**|2022. 07. 30||
 |**건국대학교 캠퍼스타운<br/>2022 K-이노스 캠퍼스타운 우수상**|2022. 08. 26|`Ablind` 수상|
 |**숭실대학교 슈퍼스타 창업경진대회 우수상**|2022. 10. 28|`Ablind` 수상|
+|**2023 숭실대학교 소프트웨어 공모전 총장상**|2023. 08. 07|`DE:BOOST` 수상 및 특허 출원 완료|
 
 </div>
 </details>
