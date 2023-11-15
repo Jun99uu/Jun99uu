@@ -7,7 +7,7 @@ I stan being with people💜
 
 🏫 Soongsil University Software Engineering 🏫 <br/>
 🎵 Software Engineering Student Council Sofrano 🎵 <br/>
-📃 Get licence : ACA, ADsP, SQLD 📃 <br/>
+📃 Get licence : ACA, ADsP, SQLD, 정보처리기사 📃 <br/>
 ⚡ KEPCO Supporters 꿈틀 8th Member ⚡ <br/>
 🤖 AI Yangjae Hub Supporters 🤖 <br/>
 🕑 IT's TIME 1st Front-end Team Member 🕑 <br/>
@@ -91,9 +91,16 @@ I stan being with people💜
 |[HOROS OCULAR](https://github.com/Jun99uu/horos-ocular)|2022. 09 ~ 2022. 12|**`Team Project`**|**`Completed`**|
 |[FITBACK](https://github.com/Jun99uu/FITBACK-Frontend)|2022. 10 ~ 2022. 12|**`Team Project`**|**`Completed`**|
 |[Talk Me Merry Christmas](https://github.com/Jun99uu/TalkMeMerryChristmas)|2022. 11|**`Team Project`**|**`Completed`**|
-|[termterm : 텀텀]()|2023. 03 ~ |**`Team Project`**|`In Progress`|
+|[termterm : 텀텀](https://apps.apple.com/kr/app/termterm/id6467411513)|2023. 03 ~ |**`Team Project`**|**`Completed`**|
 |[DE:BOOST](https://github.com/Jun99uu/DE-BOOST)|2023. 06 ~ 2023. 07|**`Team Project`**|**`Completed`**|
 |[Aurora](https://github.com/Jun99uu/beautiful-aurora)|2023. 08|**`Team Project`**|**`Completed`**|
+|[QVE Protocol](https://www.qve.today/)|2023. 03 ~ 2023. 05|**`Product`**|**`Completed`**|
+|[Yours](https://yoursnft.me/)|2023. 07 ~ 2023. 11|**`Product`**|**`Completed`**|
+|[Yours Marketplace](https://marketplace.yoursnft.me/)|2023. 08 ~ 2023. 11|**`Product`**|**`Completed`**|
+|[Yourlabs](https://yourlabs.info/)|2023. 08|**`For Sales`**|**`Completed`**|
+|[Yourstudio](https://studio.yoursnft.me/)|2023. 11|**`Event Promotion`**|**`Completed`**|
+|[SSUDOBI](https://github.com/gdsc-ssu/ssudobi-refactor)|2023. 10 ~ |**`Team Project`**|`In Progress`|
+|[BAMBI](https://github.com/Jun99uu/Bambi)|2023. 11|**`Side Project`**|**`Completed`**|
 
 </div>
 </details>
